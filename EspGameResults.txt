@@ -1,6 +1,0 @@
-Game Over
-You guessed 1 out of 3 colors correctly.
-Due Date: 9/15/25
-Username: Natdanai Boonyaleephan
-User Description: I am a student in Montgomery College and I created this program by myself.
-Date: 9/15/25
